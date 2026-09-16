@@ -29,7 +29,7 @@ mvn javafx:run
 ```
 
 ## Status
-Completed · Academic project for Laboratório de Programação, ESTG - UNIPVC (2026)
+Completed · Academic project for Programming Laboratory, ESTG - UNIPVC (2026)
 
 ## Authors
 Rodrigo Vieira · Rodrigo Malheiro
